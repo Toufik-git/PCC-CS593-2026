@@ -70,6 +70,6 @@ These experiments demonstrate how Java's Object-Oriented Programming features wo
 
 ## 👨‍💻 Author
 
-**Your Name**
+TOUFIK HASAN
 
 Java | Object-Oriented Programming | Learning Projects
